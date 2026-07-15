@@ -1,91 +1,54 @@
+
+# HOLDEN TURMAN
+**208-716-7221** | **holden.turman1@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/holdenturman/)** | **[GitHub](https://github.com/Holden-Turman)**
+
 ---
-layout: cv
-title: Isaac Newtons's CV
+
+## Technical Skills
+* **Proficient:** JavaScript, React
+* **Intermediate:** C#, Python, Express, Node.js, MySQL, Git
+* **Basic:** C, C++, Java
+* **Other Skills:** Project Management
+* **Soft Skills:** Communication, Teamwork, Problem Solving, Leadership, Adaptive Learner
+
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-<!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
-| <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
-</div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
 
 ## Education
+**B.S. Computer Science**  
+*Brigham Young University - Idaho* | GPA: 3.33  
+*December 2024 - May 2027* | Rexburg, Idaho  
 
-`1654-1660`
-__The King's School, Grantham.__
+* **Area of Interest:** Machine Learning/AI, Robotics
+* Applied software engineering best practices using JavaScript, React Native, Node.js, and PostgreSQL.
+* Gaining hands-on experience in software development, algorithms, and full-stack problem-solving using C, C#, Python, and C++.
+* Built and deployed responsive mobile-first applications in collaboration with senior developers.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+---
 
-- Sizar
+## Key Projects
 
-`1667 - death`
-__Trinity College, Cambridge__
+### Flight System Drone Sprayer
+*Rexburg, Idaho* | *April 2025 - May 2025*  
+* Engineered functional C++ drone flight system project within 4 hours, utilizing Generative AI to maximize learning efficiency with unfamiliar principles.
+* Engineered newly learned C++ concepts into a fully functional flight-logic prototype, demonstrating the ability to rapidly apply unfamiliar technologies to real-world engineering problems.
 
-- Fellow
+### Restaurant Reservation Application
+*Thinkful Chegg Software Bootcamp* | *Remote* | *May 2021 - June 2021*  
+* Engineered a full-stack reservation management system with RESTful APIs and database-driven CRUD operations, improving data reliability and streamlining user booking workflows.
+* Implemented React Router for seamless navigation and Express for efficient data handling.
+* Utilized Knex.js to optimize database queries and ensure smooth reservation workflows.
 
+### Flash Card Application
+*Thinkful Chegg Software Bootcamp* | *Remote* | *March 2021 - March 2021*  
+* Designed and engineered an interactive flashcard application that enables users to create, edit, and organize study decks, significantly improving their ability to learn and review material efficiently.
+* Developed RESTful API endpoints and state management across multiple React components.
 
+---
 
-## Awards
+## Professional Experience
 
-`2012`
-President, *Royal Society*, London, UK
+### Logistics/Sales Representative
+*Harbor Freight* | *Rexburg, Idaho* | *May 2024 - Present*  
+* Coordinated daily shipping and receiving, ensuring accurate inventory and timely stock replenishment.
+* Communicated with sales team to manage misplaced stock and organize products daily to enhance store navigation and increase customer footfall.
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
